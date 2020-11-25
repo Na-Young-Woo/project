@@ -49,7 +49,7 @@ const options = {
 
 function Mycomonent() {
   const { isLoaded, loadError } = useLoadScript({
-    googleMapsApiKey: "AIzaSyC54MBKa78_EDw3PV0QHVU77Bo4VfOp1R4",
+    googleMapsApiKey: "",
     libraries,
   });
 
